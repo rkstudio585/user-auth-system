@@ -1,0 +1,20 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" stroke="#3D85C6" stroke-width="5" fill="#fff" />
+  
+  <!-- Lock Icon -->
+  <rect x="60" y="60" width="80" height="60" rx="15" ry="15" fill="#6AA84F" />
+  <rect x="75" y="40" width="50" height="40" rx="10" ry="10" fill="#6AA84F" />
+  <circle cx="100" cy="90" r="8" fill="#fff" />
+  <line x1="100" y1="98" x2="100" y2="115" stroke="#fff" stroke-width="4" />
+
+  <!-- User Icon -->
+  <circle cx="100" cy="140" r="20" fill="#F6B26B" />
+  <circle cx="100" cy="135" r="10" fill="#fff" />
+  <path d="M85 160 q15 20 30 0" fill="#fff" />
+
+  <!-- Text Below Logo -->
+  <text x="50%" y="190" font-family="Arial" font-size="16" fill="#3D85C6" text-anchor="middle">
+    Secure Auth System
+  </text>
+</svg>
